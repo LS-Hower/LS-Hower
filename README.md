@@ -1,10 +1,11 @@
 Hi. This is LS_Hower.
 
-- IME using: Rime Input Method Engine ([rime/home](https://github.com/rime/home/)).
+- IME using: [RIME](https://github.com/rime/home/)
 - Programming language using: C, C++
-- Programming language learning: Lua, Python
-- Email: `ls_hower@163.com`
-- QQ: `37812535`
+- Programming language learning: [Lua](https://github.com/lua/lua), [Python](https://github.com/python/cpython)
+- Email: [`ls_hower@163.com`](mailto:ls_hower@163.com)
+- Email: [`ls.hower06@gmail.com`](mailto:ls.hower06@gmail.com)
+- QQ: [`37812535`](http://wpa.qq.com/msgrd?v=3&uin=37812535&Site=qq&menu=yes)
 
 [![LS-Hower](https://github-readme-stats.vercel.app/api?username=LS-Hower)]()
 
