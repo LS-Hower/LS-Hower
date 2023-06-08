@@ -1,9 +1,8 @@
-Hi. This is LS_Hower.
+Hi. This is LS_Hower, a Touhou fan and [RIME](https://github.com/rime/home/) user.
 
-- IME using: RIME ([`rime/home`](https://github.com/rime/home/))
 - Email: [`ls_hower@163.com`](mailto:ls_hower@163.com)
 - Email: [`ls.hower06@gmail.com`](mailto:ls.hower06@gmail.com)
-- QQ: [`37812535`](http://wpa.qq.com/msgrd?v=3&uin=37812535&Site=qq&menu=yes)
+- QQ: `37812535`
 
 [![LS-Hower](https://github-readme-stats.vercel.app/api?username=LS-Hower)]()
 
