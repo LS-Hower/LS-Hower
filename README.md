@@ -1,14 +1,21 @@
-Hi. This is LS_Hower, a Touhou fan and [RIME](https://github.com/rime/home/) user.
+Hi. This is `LS_Hower`, a Touhou fan and [RIME](https://github.com/rime/home/) user.
+
+I'm currently learning:
+![C++](https://img.shields.io/badge/C++-004482.svg?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2B5B84.svg?logo=python&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5E4F87.svg?logo=haskell&logoColor=white)
+
+### Stats
+
+[![LS-Hower](https://github-readme-stats.vercel.app/api?username=LS-Hower)]()
+
+### Contact Me
+
+Time Zone: UTC+8
 
 - Email: [`ls_hower@163.com`](mailto:ls_hower@163.com)
 - Email: [`ls.hower06@gmail.com`](mailto:ls.hower06@gmail.com)
 - QQ: `37812535`
-
-[![LS-Hower](https://github-readme-stats.vercel.app/api?username=LS-Hower)]()
-
-
-
-
 
 
 <!--
@@ -25,6 +32,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
