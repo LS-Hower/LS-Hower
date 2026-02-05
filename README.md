@@ -1,13 +1,8 @@
 Hi. This is `LS_Hower`, a Touhou fan and [RIME](https://github.com/rime/home/) user.
 
-I'm currently learning:
-![C++](https://img.shields.io/badge/C++-004482.svg?logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2B5B84.svg?logo=python&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5E4F87.svg?logo=haskell&logoColor=white)
+![Github stats](https://github-readme-stats-eight-theta.vercel.app/api/?username=LS-Hower&layout=compact&hide_border=true&border_radius=50)
 
-[![Github stats](https://readme-stats-zeta-six.vercel.app/api?username=LS-Hower&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://readme-stats-zeta-six.vercel.app/api/top-langs/?username=LS-Hower&layout=compact)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LS-Hower&layout=compact&hide_border=true&border_radius=50)
 
 ### Contact Me
 
