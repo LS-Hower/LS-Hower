@@ -1,8 +1,8 @@
 Hi. This is `LS_Hower`, a Touhou fan and [RIME](https://github.com/rime/home/) user.
 
-![Github stats](https://github-readme-stats-eight-theta.vercel.app/api/?username=LS-Hower&layout=compact&hide_border=true&border_radius=50)
+![Github stats](https://github-readme-stats-eight-theta.vercel.app/api/?username=LS-Hower&layout=compact&border_radius=50)
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LS-Hower&layout=compact&hide_border=true&border_radius=50)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LS-Hower&hide=css,html&layout=compact&border_radius=50)
 
 ### Contact Me
 
