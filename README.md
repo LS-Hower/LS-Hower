@@ -1,4 +1,4 @@
-# 「绀」
+<img src="https://raw.githubusercontent.com/LS-Hower/LS-Hower.github.io/refs/heads/main/images/gan.png" align="left" alt="常用头像“绀”" title="常用头像“绀”" width="172" height="172" />
 
 你好。我是 `LS_Hower` 。
 
@@ -7,6 +7,8 @@
 就读于北京邮电大学，学习计算机科学与技术专业。
 
 个人网站： [`https://ls-hower.github.io/`](https://ls-hower.github.io/)
+
+<br/>
 
 ## 联系方式
 
