@@ -6,7 +6,7 @@
 
 就读于北京邮电大学，学习计算机科学与技术专业。
 
-博客： [`https://ls-hower.github.io/`](https://ls-hower.github.io/)
+个人网站： [`https://ls-hower.github.io/`](https://ls-hower.github.io/)
 
 ## 联系方式
 
